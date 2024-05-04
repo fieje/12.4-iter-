@@ -1,0 +1,7 @@
+D:\Visual Studio projects\12.4(iter)\12.4(iter)\bin\Debug\12.4(iter).exe.config
+D:\Visual Studio projects\12.4(iter)\12.4(iter)\bin\Debug\12.4(iter).exe
+D:\Visual Studio projects\12.4(iter)\12.4(iter)\bin\Debug\12.4(iter).pdb
+D:\Visual Studio projects\12.4(iter)\12.4(iter)\obj\Debug\12.4(iter).csproj.AssemblyReference.cache
+D:\Visual Studio projects\12.4(iter)\12.4(iter)\obj\Debug\12.4(iter).csproj.CoreCompileInputs.cache
+D:\Visual Studio projects\12.4(iter)\12.4(iter)\obj\Debug\12.4(iter).exe
+D:\Visual Studio projects\12.4(iter)\12.4(iter)\obj\Debug\12.4(iter).pdb
